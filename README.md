@@ -97,7 +97,7 @@ El conjunto de datos contiene información de clientes e incluye variables relac
 1. Clonar este repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+git clone [https://github.com/tu-usuario/nombre-del-repositorio.git](https://github.com/MichellAzpiroz/sprint8-final-project.git)
 ```
 
 2. Abrir el archivo `.ipynb` utilizando alguna de las siguientes opciones:
@@ -110,19 +110,6 @@ git clone https://github.com/tu-usuario/nombre-del-repositorio.git
 
 ---
 
-## 📁 Estructura del repositorio
-
-```
-├── data/
-│   └── dataset.csv
-├── notebooks/
-│   └── Sprint8_EDA.ipynb
-├── README.md
-```
-
-*(La estructura puede variar dependiendo de cómo organices tu repositorio.)*
-
----
 
 ## 🚀 Próximos pasos
 
